@@ -1,0 +1,151 @@
+,country_long,total_green_power,country
+0,Afghanistan,258.55,AFG
+1,Albania,1431.0,ALB
+2,Algeria,694.8,DZA
+3,Angola,770.6,AGO
+4,Antarctica,1.0,ATA
+5,Argentina,12490.09,ARG
+6,Armenia,1340.0,ARM
+7,Australia,19009.1,AUS
+8,Austria,9160.1,AUT
+9,Azerbaijan,974.0,AZE
+10,Bahrain,5.0,BHR
+11,Bangladesh,263.0,BGD
+12,Belarus,232.9,BLR
+13,Belgium,8673.6,BEL
+14,Bhutan,1482.2,BTN
+15,Bolivia,509.7,BOL
+16,Bosnia and Herzegovina,2205.5,BIH
+17,Brazil,124975.52113,BRA
+18,Bulgaria,4393.2,BGR
+19,Burkina Faso,82.9,BFA
+20,Burundi,57.17,BDI
+21,Cambodia,933.8,KHM
+22,Cameroon,630.2,CMR
+23,Canada,111659.3,CAN
+24,Cape Verde,5.0,CPV
+25,Central African Republic,19.3,CAF
+26,Chile,11644.47,CHL
+27,China,398245.88,CHN
+28,Colombia,6790.0,COL
+29,Congo,219.0,COG
+30,Costa Rica,1501.95,CRI
+31,Cote DIvoire,599.0,CIV
+32,Croatia,1622.7,HRV
+33,Cuba,19.2,CUB
+34,Czech Republic,7188.7,CZE
+35,Democratic Republic of the Congo,3018.8,COD
+36,Denmark,1761.2,DNK
+37,Dominican Republic,392.09000000000003,DOM
+38,Ecuador,3304.32,ECU
+39,Egypt,4106.5,EGY
+40,El Salvador,943.3,SLV
+41,Equatorial Guinea,120.0,GNQ
+42,Estonia,277.9,EST
+43,Ethiopia,4023.9,ETH
+44,Fiji,243.4,FJI
+45,Finland,7391.36,FIN
+46,France,97645.9289,FRA
+47,French Guiana,120.6,GUF
+48,Gabon,286.0,GAB
+49,Georgia,2581.4,GEO
+50,Germany,34640.32488,DEU
+51,Ghana,1618.0,GHA
+52,Greece,3933.65,GRC
+53,Guatemala,2127.6,GTM
+54,Guinea,418.32,GIN
+55,Guyana,30.0,GUY
+56,Honduras,1334.62,HND
+57,Hungary,1971.3999999999999,HUN
+58,Iceland,2484.6,ISL
+59,India,84540.98,IND
+60,Indonesia,5901.592,IDN
+61,Iran,12048.5,IRN
+62,Iraq,2574.0,IRQ
+63,Ireland,1829.05,IRL
+64,Israel,612.8,ISR
+65,Italy,16299.11,ITA
+66,Jamaica,73.5,JAM
+67,Japan,76348.9,JPN
+68,Jordan,567.5,JOR
+69,Kazakhstan,2360.0,KAZ
+70,Kenya,1930.4,KEN
+71,Kuwait,10.0,KWT
+72,Kyrgyzstan,2910.0,KGZ
+73,Laos,3108.86,LAO
+74,Latvia,1536.0,LVA
+75,Lesotho,72.0,LSO
+76,Liberia,60.0,LBR
+77,Lithuania,1000.8,LTU
+78,Luxembourg,1296.0,LUX
+79,Macedonia,562.6,MKD
+80,Madagascar,137.65,MDG
+81,Malawi,353.6,MWI
+82,Malaysia,2282.5,MYS
+83,Mali,311.5,MLI
+84,Mauritania,63.0,MRT
+85,Mauritius,265.133,MUS
+86,Mexico,19790.9,MEX
+87,Moldova,64.0,MDA
+88,Mongolia,100.0,MNG
+89,Montenegro,667.0,MNE
+90,Morocco,3419.26,MAR
+91,Mozambique,2285.0,MOZ
+92,Myanmar,2775.2,MMR
+93,Namibia,322.6,NAM
+94,Nepal,587.95,NPL
+95,Netherlands,2666.69,NLD
+96,New Zealand,5512.55,NZL
+97,Nicaragua,276.0,NIC
+98,Niger,7.0,NER
+99,Nigeria,1910.0,NGA
+100,North Korea,3805.0,PRK
+101,Norway,31097.0,NOR
+102,Oman,1138.8,OMN
+103,Pakistan,10641.0,PAK
+104,Palestine,7.6,PSE
+105,Panama,1090.8,PAN
+106,Papua New Guinea,195.0,PNG
+107,Paraguay,8760.0,PRY
+108,Peru,3037.9,PER
+109,Philippines,6520.9,PHL
+110,Poland,4484.0,POL
+111,Portugal,8806.064,PRT
+112,Romania,5487.900000000001,ROU
+113,Russia,75296.44,RUS
+114,Rwanda,136.1,RWA
+115,Saint Lucia,3.0,LCA
+116,Saudi Arabia,137.0,SAU
+117,Senegal,225.7,SEN
+118,Serbia,2390.0,SRB
+119,Sierra Leone,50.0,SLE
+120,Slovakia,4104.86,SVK
+121,Slovenia,1118.0,SVN
+122,South Africa,8177.11,ZAF
+123,South Korea,30062.66,KOR
+124,Spain,39037.889,ESP
+125,Sri Lanka,1615.1,LKA
+126,Sudan,1666.01,SDN
+127,Suriname,5.0,SUR
+128,Swaziland,94.8,SWZ
+129,Sweden,24158.7,SWE
+130,Switzerland,13118.0,CHE
+131,Syrian Arab Republic,1505.0,SYR
+132,Taiwan,9348.86,TWN
+133,Tajikistan,4686.4,TJK
+134,Tanzania,561.0,TZA
+135,Thailand,5435.3,THA
+136,Togo,65.6,TGO
+137,Tunisia,196.2,TUN
+138,Turkey,15404.1,TUR
+139,Uganda,722.5,UGA
+140,Ukraine,20279.8,UKR
+141,United Arab Emirates,840.0,ARE
+142,United Kingdom,48782.28448,GBR
+143,United States of America,357349.65,USA
+144,Uruguay,3557.66,URY
+145,Uzbekistan,1240.0,UZB
+146,Venezuela,17666.0,VEN
+147,Vietnam,18576.49,VNM
+148,Zambia,2219.737,ZMB
+149,Zimbabwe,750.0,ZWE

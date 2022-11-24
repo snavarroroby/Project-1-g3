@@ -1,0 +1,168 @@
+,country_long,total_fuel_types,Country Code
+0,Afghanistan,300.55,AFG
+1,Albania,1529.0,ALB
+2,Algeria,15873.8,DZA
+3,Angola,1071.18,AGO
+4,Antarctica,7.6,ATA
+5,Argentina,32913.079,ARG
+6,Armenia,3271.0,ARM
+7,Australia,65852.016,AUS
+8,Austria,11227.1,AUT
+9,Azerbaijan,5764.0,AZE
+10,Bahrain,7586.3,BHR
+11,Bangladesh,11840.0,BGD
+12,Belarus,8534.9,BLR
+13,Belgium,13404.8,BEL
+14,Benin,60.5,BEN
+15,Bhutan,1482.2,BTN
+16,Bolivia,1563.1200000000001,BOL
+17,Bosnia and Herzegovina,3985.5,BIH
+18,Botswana,746.0,BWA
+19,Brazil,147589.27133,BRA
+20,Brunei Darussalam,586.0,BRN
+21,Bulgaria,9252.2,BGR
+22,Burkina Faso,229.30599999999998,BFA
+23,Burundi,57.17,BDI
+24,Cambodia,1517.6,KHM
+25,Cameroon,881.5799999999999,CMR
+26,Canada,143578.7,CAN
+27,Cape Verde,92.805,CPV
+28,Central African Republic,33.664,CAF
+29,Chile,22475.648667,CHL
+30,China,1415067.38,CHN
+31,Colombia,10924.0,COL
+32,Congo,625.9,COG
+33,Costa Rica,1968.4,CRI
+34,Cote DIvoire,1203.0,CIV
+35,Croatia,3274.5,HRV
+36,Cuba,3796.8,CUB
+37,Cyprus,1468.0,CYP
+38,Czech Republic,16871.7,CZE
+39,Democratic Republic of the Congo,3057.04,COD
+40,Denmark,8085.2,DNK
+41,Djibouti,107.332,DJI
+42,Dominican Republic,1858.09,DOM
+43,Ecuador,4245.48,ECU
+44,Egypt,34183.5,EGY
+45,El Salvador,1418.5,SLV
+46,Equatorial Guinea,150.5,GNQ
+47,Eritrea,133.19,ERI
+48,Estonia,2541.9,EST
+49,Ethiopia,4023.9,ETH
+50,Fiji,317.38,FJI
+51,Finland,11796.76,FIN
+52,France,110615.9289,FRA
+53,French Guiana,252.6,GUF
+54,Gabon,446.81,GAB
+55,Gambia,70.4,GMB
+56,Georgia,3831.4,GEO
+57,Germany,112040.37488,DEU
+58,Ghana,2108.0,GHA
+59,Greece,14658.65,GRC
+60,Guatemala,3689.1,GTM
+61,Guinea,510.42,GIN
+62,Guinea-Bissau,18.237,GNB
+63,Guyana,136.3,GUY
+64,Honduras,2164.87,HND
+65,Hungary,6290.7,HUN
+66,Iceland,2484.6,ISL
+67,India,316088.546,IND
+68,Indonesia,48751.418,IDN
+69,Iran,61362.1,IRN
+70,Iraq,18160.6,IRQ
+71,Ireland,7582.15,IRL
+72,Israel,14665.8,ISR
+73,Italy,73095.06,ITA
+74,Jamaica,792.5,JAM
+75,Japan,215365.85,JPN
+76,Jordan,4703.5,JOR
+77,Kazakhstan,18628.0,KAZ
+78,Kenya,2485.9,KEN
+79,Kosovo,1478.0,KOS
+80,Kuwait,17829.5,KWT
+81,Kyrgyzstan,3634.0,KGZ
+82,Laos,4986.86,LAO
+83,Latvia,2537.0,LVA
+84,Lebanon,2070.3,LBN
+85,Lesotho,72.0,LSO
+86,Liberia,73.3,LBR
+87,Libya,6231.0,LBY
+88,Lithuania,3490.8,LTU
+89,Luxembourg,1681.0,LUX
+90,Macedonia,1362.6,MKD
+91,Madagascar,359.93,MDG
+92,Malawi,369.1,MWI
+93,Malaysia,28794.5,MYS
+94,Mali,311.5,MLI
+95,Mauritania,315.804,MRT
+96,Mauritius,989.269,MUS
+97,Mexico,62365.9,MEX
+98,Moldova,2914.0,MDA
+99,Mongolia,904.0,MNG
+100,Montenegro,885.5,MNE
+101,Morocco,8697.56,MAR
+102,Mozambique,2285.0,MOZ
+103,Myanmar,3987.1,MMR
+104,Namibia,502.5,NAM
+105,Nepal,587.95,NPL
+106,Netherlands,16993.69,NLD
+107,New Zealand,6674.55,NZL
+108,Nicaragua,863.4,NIC
+109,Niger,167.2,NER
+110,Nigeria,6260.0,NGA
+111,North Korea,9208.0,PRK
+112,Norway,32551.0,NOR
+113,Oman,6010.8,OMN
+114,Pakistan,21455.0,PAK
+115,Palestine,7.6,PSE
+116,Panama,1633.2,PAN
+117,Papua New Guinea,406.9,PNG
+118,Paraguay,8760.0,PRY
+119,Peru,7432.1,PER
+120,Philippines,20719.3,PHL
+121,Poland,37902.0,POL
+122,Portugal,14744.864,PRT
+123,Qatar,10548.0,QAT
+124,Romania,14646.9,ROU
+125,Russia,228220.05,RUS
+126,Rwanda,193.68,RWA
+127,Saint Lucia,3.0,LCA
+128,Saudi Arabia,84341.55,SAU
+129,Senegal,696.16,SEN
+130,Serbia,7958.0,SRB
+131,Sierra Leone,126.0,SLE
+132,Singapore,13660.0,SGP
+133,Slovakia,6230.86,SVK
+134,Slovenia,2736.0,SVN
+135,South Africa,50422.7,ZAF
+136,South Korea,99472.68,KOR
+137,Spain,79035.068,ESP
+138,Sri Lanka,3720.1,LKA
+139,Sudan,2798.11,SDN
+140,Suriname,5.0,SUR
+141,Swaziland,94.8,SWZ
+142,Sweden,26418.7,SWE
+143,Switzerland,13118.0,CHE
+144,Syrian Arab Republic,7966.0,SYR
+145,Taiwan,37211.86,TWN
+146,Tajikistan,5296.4,TJK
+147,Tanzania,994.5,TZA
+148,Thailand,39654.3,THA
+149,Togo,195.114,TGO
+150,Trinidad and Tobago,2144.6,TTO
+151,Tunisia,5052.2,TUN
+152,Turkey,51444.7,TUR
+153,Turkmenistan,3454.0,TKM
+154,Uganda,772.5,UGA
+155,Ukraine,48569.8,UKR
+156,United Arab Emirates,30327.0,ARE
+157,United Kingdom,97155.28448,GBR
+158,United States of America,1204638.05,USA
+159,Uruguay,4209.12,URY
+160,Uzbekistan,12640.0,UZB
+161,Venezuela,31096.0,VEN
+162,Vietnam,41350.49,VNM
+163,Western Sahara,23.4,ESH
+164,Yemen,1045.0,YEM
+165,Zambia,2689.337,ZMB
+166,Zimbabwe,1670.0,ZWE
